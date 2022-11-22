@@ -1,7 +1,5 @@
 # Análisis EDA y modelos de regressión lineal para el data set "CO2 Emissions by Vehicles"
 
-## Introducción
-
 Este repositorio contiene todo el proceso realizado para el analisis realizado al dataset de emision de dioxido de carbono presentado en Canada. 
 El repositorio se divide en:
 
