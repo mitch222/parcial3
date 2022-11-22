@@ -13,8 +13,8 @@
 * entre otras.*/
 
 #include <iostream>
-#include "ClassExtraction/extractiondata.h"
-#include "Regression/linearregression.h"
+#include "extractiondata.h"
+#include "linearregression.h"
 #include <eigen3/Eigen/Dense>
 #include <boost/algorithm/string.hpp>
 #include <list>
