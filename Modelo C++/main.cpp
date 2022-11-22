@@ -52,10 +52,6 @@ int main(int argc, char* argv[])
     m.col(2) = matData.col(9);
     m.col(3) = matData.col(11);
 
- std::cout << m << std::endl;
- std::cout << "filas : " << m.rows() << std::endl;
- std::cout << "Columnas: " << m.cols()<< std::endl;
-
     //Se normaliza la matriz de datos
     Eigen::MatrixXd mat_norm = ExData.Norm(m);
     /* Se dividen en datos de entrenamiento y datos de prueba*/
