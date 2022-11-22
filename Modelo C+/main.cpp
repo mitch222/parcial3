@@ -1,7 +1,7 @@
 
 /*
 * Fecha: 21 sept 2022
-* Autor: Chiara Valenzuela
+* Autor: Mitchell Bermin
 * Materia: HPC
 * Tópico: Implementación de la regresión linear como
 * modelo en C++
