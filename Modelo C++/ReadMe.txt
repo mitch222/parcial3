@@ -43,6 +43,10 @@ del modelo.
   
     ./final [Direccion del data set] [separador] [Header]
    
- Cabe aclarar que este modelo solo funciona con el dataset especificado en el repositorio.
+Cabe aclarar que este modelo solo funciona con el dataset especificado en el repositorio.
    
-  
+=====RECOMENDACIONES=====  
+* Eliminar el encabezado manualmente del dataset.
+* Si se elimino el encabezado, utilizar flase como parametro para header.
+  Esto con el fin de tener el mismo resultado que se obtuvo en el desarrollo 
+  del modelo.
