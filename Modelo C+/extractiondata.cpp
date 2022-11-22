@@ -118,26 +118,3 @@ void ExtractionData::EigenToFile(Eigen::MatrixXd matriz, std::string file_name){
         file_salida << matriz << "\n";
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
