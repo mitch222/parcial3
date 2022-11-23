@@ -12,7 +12,7 @@ uno de regresión lineal simple y uno de regresión lineal multiple.
 * Se obtuvieron los factores claves que afectan los fenomenos presesntados en los datos.
 * Se extrajeron las graficas correspondientes de las variables.
 
-### Modelos de regresión
+### 📈 Modelos de regresión
 
 * Se haya la correlación entre variables
 * Se almacenan todas la variables en una para el modelo lineal simple
